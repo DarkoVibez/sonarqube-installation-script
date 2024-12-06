@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Author: Bright Ababio
+
 # Define log file path
 logfile="/var/log/sonar-install.log"
 
